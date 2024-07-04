@@ -10,10 +10,12 @@
 ⚙️ Associate Degree in Systems Analysis and Development at SENAI ⚙️ 
 
 [![Texto alternativo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-delaia-231102247?trk=people-guest_people_search-card)
-[![Texto alternativo](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/joao-vitor-delaia/)
+
 
 
 ### 📓 Cursinhos / Short Courses ✏️<br/>
+
+[![Texto alternativo](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/joao-vitor-delaia/)
 
 [.NET MAUI - Create Apps to Android, iOS, Mac & Windows](https://www.udemy.com/share/109uLo3@o1LUfyh1LvdTs8LwniI8RpFZ8zFXMVZF_7YkBl2S0JoChh9qm8opRgSXVOgHzxtxdw==/)<br>
 [ASP.NET 8 - Creating Minimal APIs + EF Core 8](https://www.udemy.com/share/10blxt3@U9KhMxdaJic9yIUiqDOSpGJ6NheWAEvOujchRYoQTwnf7M7auEtcbXK89IwwgoFRsA==/)<br>
