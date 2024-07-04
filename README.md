@@ -10,6 +10,7 @@
 ⚙️ Associate Degree in Systems Analysis and Development at SENAI ⚙️ 
 
 [![Texto alternativo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-delaia-231102247?trk=people-guest_people_search-card)
+[![Texto alternativo](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/joao-vitor-delaia/)
 
 
 ### 📓 Cursinhos / Short Courses ✏️<br/>
