@@ -9,7 +9,7 @@
  🖥 Currently studying Software Engineering 👨‍💻<br/>
 ⚙️ Associate Degree in Systems Analysis and Development at SENAI ⚙️ 
 
-[![Texto alternativo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-vitor-de-oliveira-delaia-231102247)
+[![Texto alternativo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/joão-vitor-de-oliveira-delaia-231102247](https://br.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-delaia-231102247?trk=people-guest_people_search-card))
 
 
 ### 📓 Cursinhos / Short Courses ✏️<br/>
