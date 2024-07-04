@@ -1,6 +1,6 @@
 ## Seja Bem vindo ao meu GitHub 🌟
  👁️ *Aut viam inveniam aut faciam* 👁️<br/>
- English 🇺🇸/Portuguese 🇧🇷
+ English 🇺🇸-🇬🇧 / Portuguese 🇧🇷
  
  ## 🏫 Capacitações / Certifications 📚
  💻Atualmente Cursando Engenharia de Software 📖<br/>
